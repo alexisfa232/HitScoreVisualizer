@@ -1,5 +1,5 @@
 {
-  "isDefaultConfig": true,
+  "isDefaultConfig": false,
   "useFixedPos": false,
   "fixedPosX": 0.0,
   "fixedPosY": 0.0,
@@ -9,7 +9,7 @@
   "judgments": [
     {
       "threshold": 115,
-      "text": "%BFantastic%A%n%s",
+      "text": "<size=125%>%B115%A</size>%n%s",
       "color": [
         1.0,
         1.0,
@@ -20,7 +20,7 @@
     },
     {
       "threshold": 101,
-      "text": "<size=80%>%BExcellent%A</size>%n%s",
+      "text": "<size=125%>%BPOG%A</size>%n%s",
       "color": [
         0.0,
         1.0,
@@ -31,7 +31,7 @@
     },
     {
       "threshold": 90,
-      "text": "<size=80%>%BGreat%A</size>%n%s",
+      "text": "<size=125%>%BMEHH%A</size>%n%s",
       "color": [
         1.0,
         0.980392158,
@@ -42,7 +42,7 @@
     },
     {
       "threshold": 80,
-      "text": "<size=80%>%BGood%A</size>%n%s",
+      "text": "<size=125%>%BSUS%A</size>%n%s",
       "color": [
         1.0,
         0.6,
@@ -53,7 +53,7 @@
     },
     {
       "threshold": 60,
-      "text": "<size=80%>%BDecent%A</size>%n%s",
+      "text": "<size=125%>%BRESTART%A</size>%n%s",
       "color": [
         1.0,
         0.0,
@@ -64,7 +64,7 @@
     },
     {
       "threshold": 0,
-      "text": "<size=80%>%BWay Off%A</size>%n%s",
+      "text": "<size=125%>%BRESTART%A</size>%n%s",
       "color": [
         0.5,
         0.0,
